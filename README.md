@@ -85,20 +85,5 @@ Instead of building a generic finance app, this simulator focuses on the **match
   - multi-symbol support
   - unit tests
 
----
-
-## Project Structure
-
-```text
-.
-├── main.cpp
-├── Order.h
-├── OrderBook.h
-├── OrderBook.cpp
-├── Replay.h
-├── Replay.cpp
-├── Benchmark.h
-├── Benchmark.cpp
-├── orders.csv
 └── README.md
 
